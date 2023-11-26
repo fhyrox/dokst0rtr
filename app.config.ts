@@ -1,17 +1,21 @@
 export default defineAppConfig({
   docus: {
-    title: 'Bozkurt Development',
+    title: 'Bozkurt',
     description: 'Bozkurt Development resmi sitesi.',
     socials: {
-      twitter: 'nuxtstudio',
-      github: 'nuxt-themes/docus'
+      github: 'BozkurtDevelopment',
+      discord: {
+         label: 'Discord',
+        icon: 'simple-icons:discord',
+        href: 'https://discord.gg/2evpFX22TB'
+      }
     },
     aside: {
       level: 0,
       exclude: []
     },
     header: {
-      title: "Zibidios",
+      title: "Bozkurt Development",
       logo: false
     },
     footer: {
