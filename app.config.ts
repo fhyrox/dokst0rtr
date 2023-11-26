@@ -23,5 +23,6 @@ export default defineAppConfig({
         text: 'Bozkurt Development',
         href: 'https://bozkurt.xyz'
       },
+   },
   }
 })
