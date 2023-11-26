@@ -18,11 +18,5 @@ export default defineAppConfig({
       title: "Bozkurt Development",
       logo: false
     },
-   footer: {
-      credits: {
-        text: 'Bozkurt Development',
-        href: 'https://bozkurt.xyz'
-      },
-   },
   }
 })
