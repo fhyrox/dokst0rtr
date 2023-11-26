@@ -19,12 +19,8 @@ export default defineAppConfig({
       logo: false
     },
     footer: {
-      iconLinks: [
-        {
-          href: 'https://nuxt.com',
-          icon: 'simple-icons:nuxtdotjs'
-        }
-      ]
-    }
+      credits: {
+        text: "Bozkurt Development"
+      }
   }
 })
